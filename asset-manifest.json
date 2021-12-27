@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/send-email/static/css/main.04179b6f.css",
+    "main.js": "/send-email/static/js/main.4d666815.js",
+    "static/js/787.d6e8aea1.chunk.js": "/send-email/static/js/787.d6e8aea1.chunk.js",
+    "index.html": "/send-email/index.html",
+    "main.04179b6f.css.map": "/send-email/static/css/main.04179b6f.css.map",
+    "main.4d666815.js.map": "/send-email/static/js/main.4d666815.js.map",
+    "787.d6e8aea1.chunk.js.map": "/send-email/static/js/787.d6e8aea1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.04179b6f.css",
+    "static/js/main.4d666815.js"
+  ]
+}
